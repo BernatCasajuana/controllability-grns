@@ -1,0 +1,30 @@
+{
+  "source_nodes": [],
+  "sink_nodes": [],
+  "fvs_forward_aeon": [
+    "COUP",
+    "EMX2"
+  ],
+  "fvs_forward_all": [
+    [
+      "COUP",
+      "EMX2"
+    ]
+  ],
+  "fvs_reverse_all": [
+    [
+      "COUP",
+      "EMX2"
+    ]
+  ],
+  "driver_upper_bound": [
+    "COUP",
+    "EMX2"
+  ],
+  "sensor_upper_bound": [
+    "COUP",
+    "EMX2"
+  ],
+  "feedback_loop_count": 8,
+  "feedback_loop_truncated": false
+}

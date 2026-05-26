@@ -1,0 +1,11 @@
+metric,value
+n_nodes,5.0
+n_edges,12.0
+n_sources,0.0
+n_sinks,0.0
+min_fvs_size_forward,2.0
+min_fvs_size_reverse,2.0
+driver_upper_bound_size,2.0
+sensor_upper_bound_size,2.0
+n_feedback_loops,8.0
+feedback_loop_truncated,0.0
